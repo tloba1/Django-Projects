@@ -1,4 +1,4 @@
 # Django-Projects
 
 ##Projects Notes
-## Every folder is a project
+ every folder is a project
