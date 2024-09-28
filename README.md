@@ -2,4 +2,4 @@
 
 ##Projects Notes
  
-#every folder is a project
+# "Every folder is a project"
