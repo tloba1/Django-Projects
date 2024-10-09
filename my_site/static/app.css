@@ -35,8 +35,12 @@ h3 {
   text-decoration: none;
   color: white;
   font-weight: bold;
+  margin: 0 auto;
 }
 
+#main-navigation nav a {
+  margin : 0 5px;
+}
 #main-navigation a:hover,
 #main-navigation a:active {
   color: #cf79f1;
